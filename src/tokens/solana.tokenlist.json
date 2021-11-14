@@ -24869,3 +24869,20 @@
     "patch": 2
   }
 }
+  {
+      "chainId": 101,
+      "address": "4giQvR3MsnNDdUVCQ1SxGrmJFNoqryoSJWuZFV4dpNst",
+      "symbol": "MSI",
+      "name": "MoonShibaInu",
+      "decimals": 0,
+      "logoURI": "https://ibb.co/jkc6FC2",
+      "tags": [
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://moonshibainu.xyz",
+        "twitter": "https://twitter.com/MoonShibaInu",
+        "discord": "https://discord.gg/2zcTznrSZx"
+      }
+    },
